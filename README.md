@@ -8,3 +8,7 @@ vscode配置
 ![](https://github.com/Gyxqq/vscode-config/blob/main/src/image.png)
 ## 搜索Chinese，选择简体中文安装即可  
 ![](https://github.com/Gyxqq/vscode-config/blob/main/src/1.png)
+# step3 安装c++拓展
+## 拓展市场搜索c++
+![](https://github.com/Gyxqq/vscode-config/blob/main/src/2.png)
+# 
